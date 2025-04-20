@@ -68,11 +68,3 @@ Install required packages (if not using Colab):
 ```bash
 pip install pandas numpy matplotlib seaborn missingno scikit-learn xgboost
 ```
-
-## 📈 Future Improvements
-
-- Hyperparameter tuning for better model performance
-- Feature engineering using temporal or geographic data
-- Deployment using Flask/Streamlit for real-time sales forecasting
-
----
